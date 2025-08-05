@@ -146,6 +146,7 @@ dependencies {
 
 implementation 'org.postgresql:postgresql:42.1.4'
 implementation 'org.flywaydb:flyway-core'
+implementation 'org.springframework.boot:spring-boot-starter-jdbc'
 
 
 }
